@@ -1,0 +1,1 @@
+import fromWhere from "../fromWhere.js";

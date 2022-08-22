@@ -1,0 +1,1 @@
+import countAllPaarl from '../countAllPaarl.js'

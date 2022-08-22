@@ -1,0 +1,1 @@
+import regCheck from '../regCheck.js'
